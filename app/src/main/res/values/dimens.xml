@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maginTopL">20</dimen>
+    <dimen name="TextoTitulo">20</dimen>
+    <dimen name="TextoContacto">15</dimen>
+    <dimen name="EditMens">25</dimen>
+</resources>

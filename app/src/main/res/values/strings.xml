@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombreMascotaCV">Nombre Mascota</string>
+    <string name="LikesCV">0</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca">Acerca de</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="contact_nombre">Nombre Completo</string>
+    <string name="contact_email">E-mail</string>
+    <string name="contact_mensaje">Mensaje</string>
+    <string name="error">Este campo no puede estar vacio</string>
+    <string name="emailInvalido">Ingrese un correo valido</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_enviar">Enviar Comentario</string>
+    <string name="contact">Contactanos</string>
+    <string name="javamailsuccess">Mensaje Enviado</string>
+    <string name="javamail_sending">Enviando Mensaje</string>
+    <string name="creador">Creado por: Leticia Saracho</string>
+    <string name="Motivo">Montivo: Tarea para curso de coursera</string>
+    <string name="origen">Pais: Uruguay</string>
+    <string name="texto_ec">Contacto</string>
+    <string name="TextoCorreo">Correo Electronico</string>
+    <string name="textMensaje">Mensaje</string>
+    <string name="btn_enviar">Enviar</string>
+</resources>
